@@ -1,0 +1,101 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #C7E0FF;
+    color: #00A9FF;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image img {
+    max-width: 100%;
+}
+
+.accordion {
+    list-style: none;
+    padding: 0;
+}
+
+.accordion li {
+    margin-bottom: 10px;
+}
+
+.accordion-control {
+    background-color: #00A9FF;
+    color: black;
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+}
+
+.accordion-panel {
+    display: none;
+    background-color: #C7E0FF;
+    padding: 10px;
+}
+
+.tab-list {
+    list-style: none;
+    padding: 0;
+}
+
+.tab-list li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.tab-control {
+    text-decoration: none;
+    color: #00A9FF;
+    padding: 5px 10px;
+    border: 1px solid #00A9FF;
+    border-radius: 5px;
+}
+
+.tab-panel {
+    display: none;
+}
+
+.tab-panel.active {
+    display: block;
+}
+
+.tab-control:hover {
+    background-color: #00A9FF;
+    color: black;
+}
+.imgs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgs img {
+    max-width: 30%;
+    height: 100px;
+}
+
+@media (max-width: 768px) {
+    .accordion-control, .tab-control {
+        width: 100%;
+    }
+}
