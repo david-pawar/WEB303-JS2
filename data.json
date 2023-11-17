@@ -1,0 +1,69 @@
+[
+{
+    "firstName": "Kakashi",
+    "lastName": "Hatake",
+    "age": 35,
+    "village": "Hidden Leaf Village",
+    "rank": "Former Hokage",
+    "jutsu": ["Sharingan", "Raikiri"],
+    "birthdate": "1970-09-15"
+},
+    {
+        "firstName": "Hinata",
+        "lastName": "Hyuga",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "rank": "Jonin",
+        "jutsu": ["Byakugan", "Gentle Fist"],
+        "birthdate": "1998-12-27"
+    },
+    
+    {
+        "firstName": "Naruto",
+        "lastName": "Uzumaki",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "rank": "Hokage",
+        "jutsu": ["Rasengan", "Shadow Clone Jutsu"],
+        "birthdate": "1997-10-10"
+    },
+    {
+        "firstName": "Sakura",
+        "lastName": "Haruno",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "rank": "Medical Ninja",
+        "jutsu": ["Healing Jutsu", "Super Strength"],
+        "birthdate": "1998-03-28"
+    },
+    {
+        "firstName": "Sasuke",
+        "lastName": "Uchiha",
+        "age": 18,
+        "village": "Hidden Leaf Village",
+        "rank": "Rogue Ninja",
+        "jutsu": ["Chidori", "Amaterasu"],
+        "birthdate": "1997-07-23"
+    },
+  
+ 
+   
+    {
+        "firstName": "Shikamaru",
+        "lastName": "Nara",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "rank": "Jonin",
+        "jutsu": ["Shadow Possession Jutsu", "Strategic Mind"],
+        "birthdate": "1998-09-22"
+    },
+    {
+        "firstName": "Rock",
+        "lastName": "Lee",
+        "age": 18,
+        "village": "Hidden Leaf Village",
+        "rank": "Jonin",
+        "jutsu": ["Taijutsu", "Eight Gates"],
+        "birthdate": "1997-11-27"
+    }
+]
